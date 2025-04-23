@@ -15,7 +15,6 @@ I have used PyCharm version 2023.3.4, It is intuitive to utilise and write the s
 
 Example below.
 
-Ref 1: Network Diagram
 <img width="484" alt="Screenshot 2025-04-23 at 2 55 59 pm" src="https://github.com/user-attachments/assets/150a6466-abcc-48f4-ac1d-3b8ad89cf735" />
 <img width="467" alt="Screenshot 2025-04-23 at 2 56 31 pm" src="https://github.com/user-attachments/assets/44ebb3a3-0845-40d1-b070-f9649ac5e92c" />
 <img width="460" alt="Screenshot 2025-04-23 at 2 57 10 pm" src="https://github.com/user-attachments/assets/c351533b-26c4-4436-adac-c8f0c023aa52" />
